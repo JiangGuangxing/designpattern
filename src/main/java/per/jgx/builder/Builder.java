@@ -24,5 +24,4 @@ public class Builder {
             list.add(new SmsSender());
         }
     }
-
 }
